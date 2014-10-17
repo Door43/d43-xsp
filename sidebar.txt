@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xsp:home|Door43 (xsp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xsp|d43-xsp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xsp/archive/master.zip|d43-xsp.zip]]
+
+**Recent Changes**
+{{changes>ns = xsp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xsp|Ethnologue data]]
+
